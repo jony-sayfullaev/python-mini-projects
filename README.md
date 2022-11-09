@@ -1,3 +1,3 @@
-# Python-Projects
-Python small Projects from Beginner to Advanced
+# Python
 
+Python Mini Projects
